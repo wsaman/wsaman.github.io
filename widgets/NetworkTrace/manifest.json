@@ -1,0 +1,23 @@
+{
+  "name": "NetworkTrace",
+  "label": "Network Trace",
+  "platform": "HTML",
+  "version": "January 2018",
+  "wabVersion": "2.7",
+  "author": "Esri Inc",
+  "description": "The Network Trace widget allows users to select a location on the map, call a geoprocessing model and work with the results.",
+  "copyright": "Copyright 2018 Esri Inc.",
+  "license": "http://links.esri.com/solutions/license",
+  "properties": {
+		"inPanel":true,
+		"hasLocale": true,
+		"hasStyle":true,
+		"hasConfig":true,
+		"hasUIFile":true,
+		"hasSettingPage":true,
+		"hasSettingUIFile":true,
+		"hasSettingLocale":true,
+		"hasSettingStyle":true,
+		"IsController":false
+  }
+}
